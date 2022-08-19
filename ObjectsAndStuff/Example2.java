@@ -122,3 +122,25 @@ public class Example2 /* extends Object */ {
       }
       */
 }
+
+// SAMPLE RUN
+// 
+// Example2 object
+// Example2 object
+// 9
+// 7
+// 2 objects created.
+// {2 3 400}
+// 16
+// Square with 4
+// white
+// Square with 4
+// 1
+// 3
+// 6
+// 10
+// Drawing all the shapes!
+// Square with 3
+// Rectangle with 1 4
+// Circle with 33
+
